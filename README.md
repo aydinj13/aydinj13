@@ -1,6 +1,5 @@
 <h2> Hi, I'm Aydin Joshi!</h2>
-<img align='right' src="<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>Software Enginner currently working on <a href="https://croduct.framer.website">Croduct</a>, my first SaaS.</em></p>
 
 [![Twitter: AydinJoshi](https://img.shields.io/twitter/follow/AydinJoshi?style=social)](https://twitter.com/AydinJoshi)
