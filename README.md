@@ -1,4 +1,4 @@
-<h2> Hi, I'm Aydin Joshi! <img src="https://giphy.com/gifs/nikefootball-3oD3YJDA4I6J4PmvpS" width="50"></h2>
+<h2> Hi, I'm Aydin Joshi! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW5kNTY3aDI5b29qdWs3MWJwaXc2a25yNWVvYnNibzF0enBpbmgyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oD3YJDA4I6J4PmvpS/giphy.gif" width="50"></h2>
 <p><em>Software Enginner currently working on <a href="https://croduct.framer.website">Croduct</a>, my first SaaS.</em></p>
 
 [![Twitter: AydinJoshi](https://img.shields.io/twitter/follow/AydinJoshi?style=social)](https://twitter.com/AydinJoshi)
